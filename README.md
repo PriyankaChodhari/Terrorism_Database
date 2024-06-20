@@ -1,5 +1,5 @@
 # Power BI Dashboard Terrorism_Database Internship
-Dataset: Terrorism Database
+Dataset: Terrorism Database, 
 The Terrorism Database contains information about terrorist attacks worldwide. It includes details such as the date, location, attack type,
 weapons used, number of casualties, and responsible groups. the task is to create a Power BI dashboard that provides a comprehensive overview of global terrorism trends and patterns.
 

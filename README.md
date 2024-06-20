@@ -30,3 +30,4 @@ weapons used, number of casualties, and responsible groups. the task is to creat
 - Use appropriate color schemes and layouts for clarity.
 
   
+![Screenshot (32)](https://github.com/PriyankaChodhari/Terrorism_Database/assets/171496677/de3abfa1-1feb-476f-a7cd-462ad4f1109e)
